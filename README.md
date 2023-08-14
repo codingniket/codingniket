@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-[![Header](https://raw.githubusercontent.com/codingniket/codingniket/main/.github/header.png.jpeg)](https://github.com/codingniket)
+[![Header](https://raw.githubusercontent.com/codingniket/codingniket/main/header.png.jpeg)](https://github.com/codingniket)
 
 # Hello, There! 
 
