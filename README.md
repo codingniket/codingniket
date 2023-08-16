@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/codingniket/codingniket/main/header.png.jpeg)](https://github.com/codingniket)
 
-# Hello, There! 
+# Hi There! 
 
 I am **Niket Bachhawat** and I'm a software developer and ui designer. Apart from 💻 coding, I also design products and UI.
 
