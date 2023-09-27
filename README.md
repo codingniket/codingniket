@@ -24,5 +24,5 @@ I am **Niket Bachhawat** and I'm a software developer. Apart from 💻 coding, I
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,react,nextjs,tailwindcss,mongodb,python,vscode,vercel,prisma,photoshop,replit)](https://skillicons.dev)
 
 <div align=left> 
-[![GitHub Readme Views](https://komarev.com/ghpvc/?username=Shadow129-sys&color=blue&style=flat&label=VIEWS)](https://github.com/codingniket)
+[![GitHub Readme Views](https://komarev.com/ghpvc/?username=codingniket&color=blue&style=flat&label=VIEWS)](https://github.com/codingniket)
 </div>
