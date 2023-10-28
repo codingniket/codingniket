@@ -23,3 +23,4 @@ I am **Niket Bachhawat** and I'm a software developer. Apart from 💻 coding, I
 ## 🔧 Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,react,nextjs,tailwindcss,mongodb,python,vscode,vercel,prisma,photoshop,replit)](https://skillicons.dev)
 
+[![An image of @codingniket's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/codingniket)](https://holopin.io/@codingniket)
