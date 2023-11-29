@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-[![Header](https://raw.githubusercontent.com/codingniket/codingniket/main/header.png.jpeg)](https://github.com/codingniket)
+<!-- [![Header](https://raw.githubusercontent.com/codingniket/codingniket/main/header.png.jpeg)](https://github.com/codingniket) -->
 
 # Hi There! 
 
@@ -15,9 +15,9 @@ I am **Niket Bachhawat** and I'm a software developer. Apart from 💻 coding, I
   <a href="https://www.linkedin.com/in/niket-bachhawat-2257a6200/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/manager4950" target="_blank">
+<!--   <a href="https://twitter.com/manager4950" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+  </a> -->
 </div>
 
 ## Technologies & Tools 🔧 
