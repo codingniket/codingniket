@@ -4,7 +4,7 @@
 
 # Hi There! 
 
-I am **Niket Bachhawat** and I'm a software developer. Apart from 💻 coding, I also design products and UI.
+I am Doom and I'm a software developer. Apart from 💻 coding, I also design products and UI.
 
 <!-- ## Connect with me 🚀
 <div align="left">
